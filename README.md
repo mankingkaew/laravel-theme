@@ -25,7 +25,7 @@ v2.x requires Laravel 5.4+
 
 - For Laravel 5.0 & 5.1, please use the [v1.0.x branch](https://github.com/igaster/laravel-theme/tree/v1.0)
 - For Laravel 5.2 & 5.3, please use the [v1.1.x branch](https://github.com/igaster/laravel-theme/tree/v1.1)
-
+- For Laravel >10, please use the [v1.2.x branch](https://github.com/igaster/laravel-theme/tree/v1.1)
 ## Tests
 
 This package is fully tested. Check the [testing repository](https://github.com/igaster/laravel-theme-tests)
