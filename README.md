@@ -21,11 +21,10 @@ If you are upgrading from v1.x please read the [migration guide](https://github.
 
 ## Compability
 
-v2.x requires Laravel 5.4+
 
 - For Laravel 5.0 & 5.1, please use the [v1.0.x branch](https://github.com/igaster/laravel-theme/tree/v1.0)
 - For Laravel 5.2 & 5.3, please use the [v1.1.x branch](https://github.com/igaster/laravel-theme/tree/v1.1)
-- For Laravel >10, please use the [v1.2.x branch](https://github.com/igaster/laravel-theme/tree/v1.1)
+- For Laravel >10, please use the [v3.0.x branch](https://github.com/mankingkaew/laravel-theme/tree/v3.0)
 ## Tests
 
 This package is fully tested. Check the [testing repository](https://github.com/igaster/laravel-theme-tests)
